@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=ldzhangyx)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@780f5c57-7800-46af-84ee-124d0cc7fad2/065fa000-5961-45c1-93a3-d6569db0bacd.png" /></a>
